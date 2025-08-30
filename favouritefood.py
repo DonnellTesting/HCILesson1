@@ -1,0 +1,1 @@
+print("My Favourite food is Shawarma")
